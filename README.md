@@ -10,7 +10,7 @@ MAV flight controller embedded c code (Still in Progress)
 ## onboard STM32 ARM Cortex-M4
  * #baremetal #i2c #usart #lqr #modelling #dynamics #UWBPositioning #IMU #wifi #Radio #rtos #DMA #Timers ...
 
-## Testing of pitch anf hover control
+## Testing of pitch and hover control
  * Test video https://youtu.be/Z9Sy4aOXz4Y
 
 
